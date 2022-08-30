@@ -1,6 +1,3 @@
-# Colors-terminal
-This is a repositry contain colors code to use colors in terminal application
-
 # Reset
 Color_Off='\033[0m'       # Text Reset
 
